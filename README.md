@@ -18,6 +18,9 @@ PaymentMethod: PaymentMethodID, PaymentMethodName
 Usage
 Refer to the diagrams and documentation to understand how the model can be used for analyzing sales and managing inventory.
 
+![fufu-republic star-schema](https://github.com/user-attachments/assets/a31cac84-67ad-47af-9852-0dd1561eee96)
+
+
 Contributing
 Feel free to contribute by forking the repository and submitting pull requests.
 
